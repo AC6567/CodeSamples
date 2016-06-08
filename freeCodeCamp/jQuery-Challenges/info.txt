@@ -1,0 +1,6 @@
+/* Code by Perrin Clark
+BlackGuyCoding@gmail.com
+https://www.freecodecamp.com/blackguycoding
+*/
+
+Solutions to the challenges in the jQuery section of the front end development certification by freeCodeCamp
